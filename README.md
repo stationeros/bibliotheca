@@ -9,3 +9,4 @@ Collection of books papers and journals for weekend reads.
 6) Thread Management using continuations inside OS . http://zoo.cs.yale.edu/classes/cs422/2010/bib/draves91continuations.pdf  
 7) Join processing in relational databases. http://wv.ly/Zmxq95  
 8) Scalable Web Architectures. http://berb.github.io/diploma-thesis/original/054_actors.html 
+9) Comprehensive Code Review Checklist for concurrent Java applications. https://medium.com/@leventov/code-review-checklist-java-concurrency-49398c326154 
